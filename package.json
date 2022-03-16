@@ -1,0 +1,8 @@
+{
+  "name": "rentalx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CaioZanqueta/ignite-rentalx.git",
+  "author": "Caio Zanqueta <caiozan2001@hotmail.com>",
+  "license": "MIT"
+}
