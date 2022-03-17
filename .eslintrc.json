@@ -1,6 +1,6 @@
 {
     "env": {
-        "es2020": true,
+        "es2021": true,
         "node": true,
         "jest": true
     },
@@ -77,7 +77,7 @@
                 ]
             }
         ],
-        "prettier/prettier": "error"
+        "prettier/prettier": ["error", {"singleQuote": true, "parser": "flow"}]
     },
     "settings": {
         "import/resolver": {
